@@ -13,14 +13,14 @@ Venho da operação e desenvolvo sistemas que tiram processos de planilhas e doc
 | [**MeuRecibo**](https://github.com/luanbandeira/meu-recibo) | Recibos profissionais em PDF pelo celular: editor de modelos, numeração sem duplicatas e assinatura com fundo removido no aparelho. |
 | [**Chatbot RAG**](https://github.com/luanbandeira/chatbot-rag-copa-do-mundo) | Chatbot sobre a Copa do Mundo com recuperação de contexto (FAISS + LangGraph) e respostas com fontes. |
 | [**Pipeline de Dados de Saúde**](https://github.com/luanbandeira/projeto-NTT) | Arquitetura medalhão no Databricks com PySpark, feita na residência com a NTT DATA. |
-| [**Trainify**](https://github.com/Trainify-PI5/code) | Plataforma de treinamento corporativo (LMS) com Spring Boot e React, desenvolvida em grupo como trabalho de conclusão na UNICAP. |
+| [**Trainify**](https://github.com/Trainify-PI5/code) | Plataforma de treinamento corporativo (LMS), desenvolvida em grupo como trabalho de conclusão na UNICAP. |
 
 Também por aqui: uma [fechadura com reconhecimento facial](https://github.com/luanbandeira/fechadura-inteligente) (Python + Arduino) e um [assistente com LangChain](https://github.com/luanbandeira/agente-ia) rodando uma LLM local.
 
 ## Stack
 
 - **Web:** TypeScript · Next.js · React · Tailwind CSS
-- **Dados e back-end:** Supabase · PostgreSQL (Row Level Security, PL/pgSQL, pg_cron) · Python · FastAPI · Java · Spring Boot
+- **Dados e back-end:** Supabase · PostgreSQL (Row Level Security, PL/pgSQL, pg_cron) · Python · FastAPI
 - **IA e dados:** LangChain · LangGraph · FAISS · Apache Spark · Databricks
 - **Qualidade:** Vitest · Playwright · testes de banco em SQL
 
